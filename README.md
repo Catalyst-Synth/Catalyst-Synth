@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on developing custom shell scripts to automate my workflows on [Linux](https://kali.org).
+🔭 I’m currently working on developing custom shell scripts to automate my workflows on [Linux](https://kali.org).  
 🌱 I’m currently learning more about reverse engineering.
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm91MnNnZDdjZDk4Z3cwN2R3NGkwNWg0cGxiMm1ldGdmZm9hbTFnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GCvktC0KFy9l6/giphy.gif" alt="thumbs up" width="300"/> 
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
 
 ##### • Sound •
-<img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white" /> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+<img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white" /> [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21gwecke5ytlzwlcyrede3dfq?si=846eec2edf024e07)
 
 ##### My Github Stats
 ![Catalyst's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalyst-synth&show_icons=true&theme=one_dark_pro)
