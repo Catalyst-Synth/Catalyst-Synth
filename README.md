@@ -1,4 +1,4 @@
-## The catalyst for your next command-line inspiration? Perhaps.
+## Jangan tanyakan soal "Dia", tanyakan soal 'commit' terakhirku. Itu lebih berkesan dan (semoga) lebih stabil.
 ![Catalyst-Synth](img/github-header-image1.png)
 <!--
 **Catalyst-Synth/Catalyst-Synth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
