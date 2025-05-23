@@ -64,5 +64,37 @@ Here are some ideas to get you started:
 ##### • Sound •
 [![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)](https://www.audacityteam.org/) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21gwecke5ytlzwlcyrede3dfq?si=846eec2edf024e07)
 
-##### My Github Stats
-![Catalyst's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalyst-synth&show_icons=true&theme=one_dark_pro)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Catalyst-Synth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Catalyst-Synth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Catalyst-Synth&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Catalyst-Synth&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Catalyst-Synth/Catalyst-Synth/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Catalyst-Synth/Catalyst-Synth/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Catalyst-Synth/Catalyst-Synth/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Catalyst-Synth/Catalyst-Synth/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/21gwecke5ytlzwlcyrede3dfq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21gwecke5ytlzwlcyrede3dfq&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Catalyst-Synth/count.svg?"  />
+</div>
+
+###
