@@ -1,4 +1,4 @@
-## Hi there I'm Catalyst-Synth 👋
+## The catalyst for your next command-line inspiration? Perhaps.
 ![Catalyst-Synth](img/github-header-image1.png)
 <!--
 **Catalyst-Synth/Catalyst-Synth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
