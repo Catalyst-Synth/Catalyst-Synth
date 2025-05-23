@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on developing custom shell scripts to automate my workflows on Linux.
+🔭 I’m currently working on developing custom shell scripts to automate my workflows on [Linux](https://kali.org).
 🌱 I’m currently learning more about reverse engineering.
-
-
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm91MnNnZDdjZDk4Z3cwN2R3NGkwNWg0cGxiMm1ldGdmZm9hbTFnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GCvktC0KFy9l6/giphy.gif" alt="thumbs up" width="300"/> 
+</p>
+ 
 #### ⚡My Skills
 <p align="center">
   <a href="https://skillicons.dev">
@@ -46,19 +48,20 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-##### - Connect with me -
-![https://github.com/Catalyst-Synth](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white") ![https://instagram.com/evandes_gi](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://github.com/Catalyst-Synth](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://id.quora.com/profile/Evandes-Nathanael-G](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)
 
-##### - Terminal -
+##### • Connect with me •
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Catalyst-Synth) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/evandes_gi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandes-nathanael-girsang/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://id.quora.com/profile/Evandes-Nathanael-G)
+
+##### • Terminal •
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" > <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /> <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" /> <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white" >
 
-##### - Security Tools -
+##### • Security Tools •
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
 
-##### - Education -
+##### • Education •
 <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
 
-##### - Sound -
+##### • Sound •
 <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white" /> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
 
 ##### My Github Stats
