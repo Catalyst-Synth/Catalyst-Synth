@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on developing custom shell scripts to automate my workflows on [Linux](https://kali.org).  
-🌱 I’m currently learning more about reverse engineering.
+🌱 I’m currently learning more about machine learning & deep learning.
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm91MnNnZDdjZDk4Z3cwN2R3NGkwNWg0cGxiMm1ldGdmZm9hbTFnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GCvktC0KFy9l6/giphy.gif" alt="thumbs up" width="300"/> 
 </p>
