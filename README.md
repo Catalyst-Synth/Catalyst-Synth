@@ -1,4 +1,4 @@
-## Another 'foolish' late-night commit
+## Another foolish late-night commit
 ![Catalyst-Synth](img/github-header-image1.png)
 <!--
 **Catalyst-Synth/Catalyst-Synth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on developing custom shell scripts to automate my workflows on [Linux](https://kali.org).  
-🌱 I’m currently learning more about machine learning & deep learning.
+🔭 I’m currently working on developing my Final Project assesment to automate my workflows on [Linux](https://kali.org).  
+⚡ I’m currently learning more about machine learning & deep learning.
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm91MnNnZDdjZDk4Z3cwN2R3NGkwNWg0cGxiMm1ldGdmZm9hbTFnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GCvktC0KFy9l6/giphy.gif" alt="thumbs up" width="300"/> 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZneGZkYTczeGo3b21sZjA1djV1cjhjOTloMzRib2JxcG1rYnFrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8D37mAy3lBFt1bWIaL/giphy.gif" alt="thumbs up" width="300"/> 
 </p>
  
 #### ⚡My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,py,html,java,js,mysql,replit,flutter,flask,octave" />
+    <img src="https://skillicons.dev/icons?i=py,octave" />
   </a>
 </p>
 
@@ -50,10 +50,10 @@ Here are some ideas to get you started:
 
 
 ##### • Connect with me •
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Catalyst-Synth) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/evandes_gi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandes-nathanael-girsang/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://id.quora.com/profile/Evandes-Nathanael-G)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Catalyst-Synth) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/evandes_gi)
 
 ##### • Terminal •
-[![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/PowerShell/PowerShell) [![windowsterminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)](https://github.com/microsoft/terminal) [![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)](https://wiki.archlinux.org/title/Zsh)
+[![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/PowerShell/PowerShell) [![windowsterminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)](https://github.com/microsoft/terminal) [![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)](https://wiki.archlinux.org/title/Zsh)
 
 ##### • Security Tools •
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)](https://www.wireshark.org/) [![Metasploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/evandes-nathanael-girsang)
 
 ##### • Sound •
-[![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)](https://www.audacityteam.org/) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21gwecke5ytlzwlcyrede3dfq?si=846eec2edf024e07)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21gwecke5ytlzwlcyrede3dfq?si=846eec2edf024e07)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Catalyst-Synth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
