@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kali,debian,windows" />
   </a>
-</p> --> -->
+</p> -->
 
 
 ##### • Connect with me •
