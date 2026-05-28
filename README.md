@@ -1,5 +1,5 @@
 ## Another 'foolish' late-night commit
-![Catalyst-Synth](img/github-header-image1.png)
+<!-- ![Catalyst-Synth](img/github-header-image1.png) -->
 <!--
 **Catalyst-Synth/Catalyst-Synth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on developing custom shell scripts to automate my workflows on [Linux](https://kali.org).  
+<!-- 🔭 I’m currently working on developing custom shell scripts to automate my workflows on [Linux](https://kali.org).  
 🌱 I’m currently learning more about reverse engineering.
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm91MnNnZDdjZDk4Z3cwN2R3NGkwNWg0cGxiMm1ldGdmZm9hbTFnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GCvktC0KFy9l6/giphy.gif" alt="thumbs up" width="300"/> 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kali,debian,windows" />
   </a>
-</p>
+</p> -->
 
 
 ##### • Connect with me •
