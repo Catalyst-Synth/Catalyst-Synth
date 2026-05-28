@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning more about reverse engineering. -->
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZneGZkYTczeGo3b21sZjA1djV1cjhjOTloMzRib2JxcG1rYnFrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8D37mAy3lBFt1bWIaL/giphy.gif" alt="thumbs up" width="300"/> 
-</p> -->
+</p>
  
 <!-- #### ⚡My Skills
 <p align="center">
