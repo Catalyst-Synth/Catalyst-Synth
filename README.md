@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Catalyst-Synth/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=Catalyst-Synth&color=blue&style=flat-square" alt="Profile Views" />
 </div>
 
 ###
